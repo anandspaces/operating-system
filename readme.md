@@ -106,7 +106,7 @@
 - **Disk Scheduling**:
   - Algorithms: First-Come-First-Serve (FCFS), Shortest Seek Time First (SSTF), Elevator (SCAN).
 
-### Unit-2: Inter-process Communication
+### Inter-process Communication
 
 #### Race Conditions
 - Occur when multiple processes access and manipulate shared data concurrently.
@@ -199,7 +199,7 @@
   - Processes can move between queues based on their behavior and requirements.
   - Balances the needs of different types of processes dynamically.
 
-### Unit-3: File Systems
+### File Systems
 
 #### File Concept
 - A file is a named collection of related data, stored on secondary storage.
@@ -291,7 +291,7 @@
   - Algorithms to decide the order of disk I/O requests (e.g., FCFS, SSTF, SCAN).
   - Optimizes seek time and enhances overall performance.
 
-### Unit-4: Security & Protection
+### Security & Protection
 
 #### Security Environment
 - **Threats**: Potential causes of unwanted incidents leading to damage.
